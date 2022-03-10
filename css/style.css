@@ -21,11 +21,11 @@ body {
     width: 1140px;
     margin: 0 auto;
     padding: 0 15px;
-    
-.sektion-title {
-    text-transform: uppercase;
-
 }
+
+    .sektion-title {
+        text-transform: uppercase;
+    }
 .header {
     background-color: var(--accent);
 }
